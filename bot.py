@@ -2,7 +2,7 @@ import logging
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "8996678780:AAHjZKleAKlPofMBTkMnl7nGIveOudQ1Ytk"
+BOT_TOKEN = "8996678780:AAFcK1MWgf-5gRKXWbjkizJo00X45ru8KQY"
 YOUR_ID = 680776755
 VERONIKA_ID = 696200382
 
